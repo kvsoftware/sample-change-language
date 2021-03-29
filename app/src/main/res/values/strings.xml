@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">sample-change-language</string>
+    <string name="app_name">Change Language</string>
+    <string name="activity_main_tv_title">Sample of change language</string>
+    <string name="activity_main_tv_description">This is a sample application</string>
+    <string name="activity_main_btn_english">English</string>
+    <string name="activity_main_btn_thai">Thai</string>
 </resources>
