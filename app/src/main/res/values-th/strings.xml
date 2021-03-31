@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Change Language</string>
+    <string name="activity_main_tv_title">ตัวอย่างแอปพลิเคชันเปลี่ยนภาษา</string>
+    <string name="activity_main_tv_description">โปรแกรมนี้เป็นโปรแกรมทดสอบ</string>
+    <string name="activity_main_btn_english">อังกฤษ</string>
+    <string name="activity_main_btn_thai">ไทย</string>
+</resources>
