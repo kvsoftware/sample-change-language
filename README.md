@@ -1,1 +1,2 @@
-sample-change-language
+# Sample Change Language
+This is sample application demonstrates how to change application language. By default, application will load resources based on the system language that is set on the user’s phone. If you want the application load the specific language, we will have to programmatically update the locale of the android application to override the default locale set in the user’s system.
